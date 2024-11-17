@@ -1,0 +1,1 @@
+// GENERATE YOUR ONW FIREBASE OPTIONS WITH "flutterfire configure" COMMAND
