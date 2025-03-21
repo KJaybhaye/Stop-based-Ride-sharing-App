@@ -39,6 +39,28 @@ dart pub get
 flutter run
 
 
+## Screenshots
+
+|   |  |
+| ------------- | ------------- |
+| ![Decision Screen](Screenshots/Decision_Screeen.jpg) | ![Login Screen](Screenshots/Login_Register.jpg)  |
+| ![Profile Setting](Screenshots/Profile_Setting.jpg)  |  |
+
+### Driver Side
+|   |  |
+| ------------- | ------------- |
+| ![Driver Home](Screenshots/Driver_Home.jpg) | ![Create Ride](Screenshots/Create_Ride.jpg)  |
+| ![Ride Requests](Screenshots/Manage_Requests.jpg)  |![Upcoming Rides](Screenshots/Upcoming_Rides_Driver.jpg)   |
+| ![Pickup Passenger](Screenshots/Pickup.jpg)  |![Ongoing Rides](Screenshots/Ongoing_Rides.jpg)   |
+
+
+### Passenger Side
+|   |  |
+| ------------- | ------------- |
+| ![Passenger Home](Screenshots/Passenger_Home.jpg) | ![Available Rides](Screenshots/Ride_Search.jpg)  |
+| ![Send Request](Screenshots/Ride_Details.jpg)  |![Upcoming Rides](Screenshots/Upcoming_Rides.jpg)   |
+
+
 <!-- ### to ignore changes of files containing your apis
 git update-index --assume-unchanged android/app/src/main/AndroidManifest.xml 
 git update-index --assume-unchanged android/app/google-services.json 
